@@ -9,7 +9,6 @@
     "use"
   ],
   "success_url": "https://telegram.dog/,
-  "website": "https://technogramx.tk",
   "repository": "https://github.com/Chris-Carlo/Telegram-Renamer-Bot",
   "env": {
     "WEBHOOK": {
