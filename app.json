@@ -1,15 +1,16 @@
 {
-  "name": "Telegram Renamer Bot",
-  "description": "A Renamer Bot you can use to rename telegram files.",
+  "name": "TG Rename Bot",
+  "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
   "keywords": [
-    "Renamer",
-    "Bot",
     "telegram",
-    "you",
-    "use"
+    "best",
+    "open",
+    "source",
+    "Rename"
   ],
-  "success_url": "https://telegram.dog/,
-  "repository": "https://github.com/Chris-Carlo/Telegram-Renamer-Bot",
+  "success_url": "https://telegram.dog/AnyDLBot",
+  "website": "https://github.com/SpEcHiDe/AnyDLBot",
+  "repository": "https://github.com/erichdanikeninfo/TG-Rename-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
