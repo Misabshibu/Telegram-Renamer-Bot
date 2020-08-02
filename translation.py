@@ -1,14 +1,13 @@
 class Translation(object):
     START_TEXT = """Hello,
 I am Renamer Bot!
-If you have any doubts join @technogramx1
-<b>Please send me any Telegram file and reply to that file to /rename New Name.mkv</b>
+<b>Please send me any Telegram file and reply to that file to /rename new name.extension</b>
 
 /help for more details.."""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>Join @technogramx1</b>  /help for Details"
-    DOWNLOAD_START = "Downloading to my local servers..."
+    DOWNLOAD_START = "Downloading in my local servers..."
     UPLOAD_START = "Uploading please wait..."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me🤓.**"
@@ -27,7 +26,7 @@ If you have any doubts join @technogramx1
 1. Send me any Telegram File.
 2. Reply to that message to /rename new name.extension
 --------
-Support Group : [TECHNOGRAM X](buttonurl:https://telegram.dog/technogramx1)"""
+Support Group : @technogramx1"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
